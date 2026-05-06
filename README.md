@@ -5,6 +5,6 @@ End-to-end Sales Performance &amp; Profitability Analysis using SQL, Python, Pow
 
 ![Sales Analysis](images/SalesAnalysis.png)
 
-![Category Analysis](images/CategoryAnalysis.png)
+![Category Analysis](images/CategoryAnalysis.PNG)
 
 ![Product Insights](images/ProductInsights.png)
