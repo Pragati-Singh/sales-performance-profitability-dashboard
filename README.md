@@ -3,8 +3,8 @@ End-to-end Sales Performance &amp; Profitability Analysis using SQL, Python, Pow
 
 ## Dashboard Preview
 
-![Sales Analysis](images/sales-analysis.png)
+![Sales Analysis](images/SalesAnalysis.png)
 
-![Category Analysis](images/category-analysis.png)
+![Category Analysis](images/CategoryAnalysis.png)
 
-![Product Insights](images/product-insights.png)
+![Product Insights](images/ProductInsights.png)
