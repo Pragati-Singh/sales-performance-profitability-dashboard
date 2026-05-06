@@ -1,5 +1,13 @@
 # README — Sales Performance & Profitability Dashboard
 
+## Dashboard Preview
+
+![Sales Analysis](images/SalesAnalysis.png)
+
+![Category Analysis](images/CategoryAnalysis.PNG)
+
+![Product Insights](images/ProductInsights.png)
+
 ## Project Overview
 
 This project analyzes sales and profitability trends using SQL, Python, and Power BI. The analysis focuses on identifying business growth patterns, category-wise profitability, regional performance, and product-level sales-profit relationships through interactive visualizations and KPI-driven insights.
